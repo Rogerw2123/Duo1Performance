@@ -129,7 +129,7 @@
         <h2>Contact Us</h2>
         <p>Email: training@baseballsoftball.com</p>
         <p>Phone: (123) 456-7890</p>
-        <p>Address: 123 Training Lane, Sports City, USA</p>
+        <p>Address: 123 Training Lane, Massachusetts, USA</p>
     </section>
     <footer>
         <p>&copy; 2024 Baseball & Softball Training. All rights reserved.</p>
